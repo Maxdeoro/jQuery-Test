@@ -1,0 +1,44 @@
+{
+    "photos": [
+        {
+            "img": "img/Chrysanthemum.jpg",
+            "altimg": "Chrysanthemum",
+            "title": "Chrysanthemum"
+        },
+        {
+            "img": "img/Desert.jpg",
+            "altimg": "desert",
+            "title": "Desert"
+        },
+        {
+            "img": "img/Hydrangeas.jpg",
+            "altimg": "hydrangeas",
+            "title": "Hydrangeas"
+        },
+        {
+            "img": "img/Jellyfish.jpg",
+            "altimg": "jellyfish",
+            "title": "Jellyfish"
+        },
+        {
+            "img": "img/Koala.jpg",
+            "altimg": "koala",
+            "title": "Koala"
+        },
+        {
+            "img": "img/Lighthouse.jpg",
+            "altimg": "lighthouse",
+            "title": "Lighthouse"
+        },
+        {
+            "img": "img/Penguins.jpg",
+            "altimg": "penguins",
+            "title": "Penguins"
+        },
+        {
+            "img": "img/Tulips.jpg",
+            "altimg": "tulips",
+            "title": "Tulips"
+        }
+    ]
+}

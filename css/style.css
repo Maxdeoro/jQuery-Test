@@ -1,0 +1,34 @@
+.wrapper {
+    height: 600px;
+    width: 900px;
+    text-align: center;
+}
+
+img {
+    width: 450px;
+    height: 300px;
+    box-shadow: 4px 9px #888;
+    margin: 6px;
+}
+
+button {
+    width: 117px;
+    height: 30px;
+    border-radius: 5px;
+    box-shadow: 3px 7px #888;
+    background-color: aquamarine;
+}
+
+.list {
+    margin-bottom: 40px;
+    margin-left: 150px;
+}
+
+.item_title {
+    margin-top: 3px;
+}
+
+.gallery_item {
+    width: 900px;
+    height: 355px;
+}
